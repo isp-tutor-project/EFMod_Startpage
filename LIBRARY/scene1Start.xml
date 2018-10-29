@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="scene1Start" itemID="5bd768b5-000002fc" lastModified="1540843701">
+  <timeline>
+    <DOMTimeline name="scene1Start">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Headergraphic.jpg">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="-675" ty="-321.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="TC_TObject__Start" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.809982299804688" d="0.809982299804688" tx="27.9" ty="213.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="Starttext" selected="true" fontRenderingMode="standard" left="-78.25" width="300.5" height="249.8" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.809982299804688" d="0.809982299804688" tx="-24.3" ty="111.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Start</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="229" size="200" bitmapSize="4000" face="MouseMemoirs-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Arrow_Orange" selected="true">
+                  <matrix>
+                    <Matrix a="-0.582366943359375" b="2.17327880859375" c="2.17327880859375" d="0.582366943359375" tx="-423.9" ty="139.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

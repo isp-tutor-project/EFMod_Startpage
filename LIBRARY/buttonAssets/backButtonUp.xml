@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="buttonAssets/backButtonUp" itemID="5bdd1e61-000003a8" symbolType="button" lastModified="1541217889">
+  <timeline>
+    <DOMTimeline name="backButtonUp">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMOvalObject objectWidth="330.3" objectHeight="330.3" x="1985.6" y="266.7" endAngle="0">
+                      <matrix>
+                        <Matrix a="0.529815673828125" d="0.529815673828125" tx="-1052" ty="-141.3"/>
+                      </matrix>
+                      <fill>
+                        <SolidColor color="#999999" alpha="0.227450980392157"/>
+                      </fill>
+                      <stroke>
+                        <SolidStroke scaleMode="normal" weight="28.2">
+                          <fill>
+                            <SolidColor color="#FFFFFF"/>
+                          </fill>
+                        </SolidStroke>
+                      </stroke>
+                    </DOMOvalObject>
+                    <DOMSymbolInstance libraryItemName="buttonAssets/arrowhead" symbolType="button">
+                      <matrix>
+                        <Matrix a="0.529815673828125" d="0.529815673828125" tx="64.85" ty="47.45"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="36.8" y="75.6"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TObject__Start" itemID="5bd74c03-0000030f" symbolType="button" lastModified="1540836355">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="buttonAssets/TC_TObject__Start" itemID="5bd74c03-0000030f" symbolType="button" lastModified="1541277927">
   <timeline>
     <DOMTimeline name="TC_TObject__Start">
       <layers>
@@ -9,14 +9,14 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <SolidColor color="#0033FF"/>
+                      <SolidColor color="#0024B6"/>
                     </FillStyle>
                   </fills>
                   <strokes>
                     <StrokeStyle index="1">
-                      <SolidStroke scaleMode="normal" weight="4">
+                      <SolidStroke scaleMode="normal" weight="10.05">
                         <fill>
-                          <SolidColor color="#828282"/>
+                          <SolidColor color="#FFFFFF"/>
                         </fill>
                       </SolidStroke>
                     </StrokeStyle>

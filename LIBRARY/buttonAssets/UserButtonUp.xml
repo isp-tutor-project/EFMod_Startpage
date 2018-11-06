@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="buttonAssets/UserButtonUp" itemID="5bddd5a2-00000575" lastModified="1541276778">
+  <timeline>
+    <DOMTimeline name="UserButtonUp">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="buttonAssets/newUserdn" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.809982299804688" d="0.809982299804688" tx="360.5" ty="110.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="Starttext" fontRenderingMode="standard" left="-128.5" width="401" height="171.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.809982299804688" d="0.809982299804688" tx="302.2" ty="21.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>New User</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="171.75" size="150" bitmapSize="3000" face="MouseMemoirs-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

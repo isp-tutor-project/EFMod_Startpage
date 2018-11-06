@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="buttonAssets/deltop_dn" itemID="5bde195f-00000336" lastModified="1541283251">
+  <timeline>
+    <DOMTimeline name="deltop_dn">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="153.15" objectHeight="153.15" x="253.5" y="355.55" endAngle="0">
+                  <matrix>
+                    <Matrix a="0.913833618164063" d="0.913833618164063" tx="-231.65" ty="-324.85"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#333333" alpha="0.549019607843137"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="10">
+                      <fill>
+                        <SolidColor color="#666666"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="scenenewuser" itemID="5bddd7cf-00000697" lastModified="1541281323">
+  <timeline>
+    <DOMTimeline name="scenenewuser">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="home_btn_up">
+                  <matrix>
+                    <Matrix tx="117.85" ty="86.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55" y="55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="buttonAssets/UserButtonUp" selected="true">
+                  <matrix>
+                    <Matrix tx="599.5" ty="613.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="360.5" y="110.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="buttonAssets/ExUserButtonUp">
+                  <matrix>
+                    <Matrix tx="599.5" ty="359.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="360.5" y="110.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="buttonAssets/NavBg">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mnthbtn_top" itemID="5bddd891-000006a2" lastModified="1541266661">
+  <timeline>
+    <DOMTimeline name="mnthbtn_top">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="231.85" objectHeight="98.45" x="317.15" y="516.55" lockFlag="true" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="10" bottomRightRadius="10">
+                  <matrix>
+                    <Matrix tx="-317.15" ty="-516.55"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#00CC00" alpha="0.227450980392157"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="10">
+                      <fill>
+                        <SolidColor color="#7DA17D"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,18 +1,113 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="E09D928104EEB04563B110E22F660BDA">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#FFFFCC" backgroundAlpha="0" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="E09D928104EEB04563B110E22F660BDA">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
-          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48" isExpanded="true"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5bddd211-00000498" isExpanded="true"/>
+          <DOMFolderItem name="Assets" itemID="5b632aef-00000431" isExpanded="true"/>
+          <DOMFolderItem name="Assets/TC_TButton__Button Assets" itemID="5bc37ddd-00000662"/>
+          <DOMFolderItem name="Assets/TC_TButton__Button Assets/icons" itemID="5bc37ddd-00000663"/>
+          <DOMFolderItem name="buttonAssets" itemID="5bdcb928-00000316" isExpanded="true"/>
+          <DOMFolderItem name="Scene Assets" itemID="5bdddecb-0000081c"/>
+          <DOMFolderItem name="Scene Assets/TC_TScene__SoundCheck" itemID="5bdddf3b-00000858"/>
+          <DOMFolderItem name="Scene Assets/TC_TScene_HeadPhoneCheck" itemID="5bdddecb-0000081d"/>
      </folders>
      <media>
-          <DOMBitmapItem name="Headergraphic.jpg" itemID="5bd75bc3-000004d3" sourceExternalFilepath="./LIBRARY/Headergraphic.jpg" sourceLastImported="1540837237" sourcePlatform="macintosh" externalFileSize="83734" allowSmoothing="true" quality="50" href="Headergraphic.jpg" bitmapDataHRef="M 7 1540836872.dat" frameRight="18000" frameBottom="4760" isJPEG="true"/>
+          <DOMBitmapItem name="Scene Assets/TC_TScene_HeadPhoneCheck/cmulogo.png" itemID="5ae2612c-00000269" sourceLastImported="1316734659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene_HeadPhoneCheck/cmulogo.png" bitmapDataHRef="M 4 1541267147.dat" frameRight="6940" frameBottom="800"/>
+          <DOMBitmapItem name="buttonAssets/Headergraphic.jpg" itemID="5bd75bc3-000004d3" sourceLastImported="1541282461" sourcePlatform="macintosh" externalFileSize="83734" allowSmoothing="true" quality="50" href="buttonAssets/Headergraphic.jpg" bitmapDataHRef="M 7 1540836872.dat" frameRight="18000" frameBottom="4760" isJPEG="true"/>
+          <DOMBitmapItem name="Scene Assets/TC_TScene_HeadPhoneCheck/Headphones.png" itemID="5ae2612c-0000026e" sourceLastImported="1359679800" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene_HeadPhoneCheck/Headphones.png" bitmapDataHRef="M 3 1541267147.dat" frameRight="7020" frameBottom="4420"/>
+          <DOMBitmapItem name="Home.fw.png" itemID="5bde0e2a-00000d51" sourceLastImported="1541282461" externalFileCRC32="3663740262" externalFileSize="54455" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Home.fw.png" bitmapDataHRef="M 17 1541276435.dat" frameRight="2040" frameBottom="2040"/>
+          <DOMBitmapItem name="Scene Assets/TC_TScene__SoundCheck/icon0.png" itemID="5ae26715-00000355" sourceLastImported="1534016041" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene__SoundCheck/icon0.png" bitmapDataHRef="M 7 1541267259.dat" frameRight="1000" frameBottom="1000"/>
+          <DOMBitmapItem name="Scene Assets/TC_TScene__SoundCheck/icon3.png" itemID="5ae265bf-000002d0" sourceLastImported="1359503119" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene__SoundCheck/icon3.png" bitmapDataHRef="M 8 1541267259.dat" frameRight="1000" frameBottom="1000"/>
+          <DOMBitmapItem name="Scene Assets/TC_TScene__SoundCheck/icon4.png" itemID="5ae265bf-000002d5" sourceLastImported="1359503119" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene__SoundCheck/icon4.png" bitmapDataHRef="M 9 1541267259.dat" frameRight="1000" frameBottom="1000"/>
+          <DOMBitmapItem name="Scene Assets/TC_TScene__SoundCheck/icon5.png" itemID="5ae265bf-000002da" sourceLastImported="1359503119" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene__SoundCheck/icon5.png" bitmapDataHRef="M 10 1541267259.dat" frameRight="1000" frameBottom="1000"/>
+          <DOMBitmapItem name="Scene Assets/TC_TScene__SoundCheck/icon6.png" itemID="5ae265bf-000002df" sourceLastImported="1359503119" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene__SoundCheck/icon6.png" bitmapDataHRef="M 11 1541267259.dat" frameRight="1000" frameBottom="1000"/>
+          <DOMBitmapItem name="Scene Assets/TC_TScene__SoundCheck/iconStar.png" itemID="5ae265bf-0000030c" sourceLastImported="1359503119" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene__SoundCheck/iconStar.png" bitmapDataHRef="M 12 1541267259.dat" frameRight="1000" frameBottom="1000"/>
+          <DOMBitmapItem name="Scene Assets/TC_TScene_HeadPhoneCheck/ieslogo.png" itemID="5ae2612c-00000273" sourceLastImported="1316734659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene_HeadPhoneCheck/ieslogo.png" bitmapDataHRef="M 5 1541267147.dat" frameRight="2880" frameBottom="800"/>
+          <DOMBitmapItem name="Scene Assets/TC_TScene_HeadPhoneCheck/klahrlogo.png" itemID="5ae2612c-00000278" sourceLastImported="1316734659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene_HeadPhoneCheck/klahrlogo.png" bitmapDataHRef="M 6 1541267147.dat" frameRight="1640" frameBottom="800"/>
+          <DOMBitmapItem name="Scene Assets/TC_TScene__SoundCheck/SpkrIcon.png" itemID="5ae265bf-00000311" sourceLastImported="1359503119" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene__SoundCheck/SpkrIcon.png" bitmapDataHRef="M 13 1541267259.dat" frameRight="8000" frameBottom="6000"/>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
      </media>
      <symbols>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__NextButton.xml" itemIcon="0" loadImmediate="false" itemID="5bc37dde-00000667" lastModified="1541283907"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__PrevButton.xml" itemIcon="0" loadImmediate="false" itemID="5bc37dde-00000670" lastModified="1533586273"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TObject__contentFrame0.xml" loadImmediate="false" itemID="5bc12246-0000211a" lastModified="1541274674"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TObject__contentFrame1.xml" loadImmediate="false" itemID="5bc1221f-00002119" lastModified="1541274701"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TObject__contentFrame2.xml" loadImmediate="false" itemID="5bc120eb-00002109" lastModified="1541274716"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TObject__contentFrame3.xml" loadImmediate="false" itemID="5bc1224c-0000211b" lastModified="1541275032"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TObject__NavBackground.xml" loadImmediate="false" itemID="5b6f441f-0000043d" lastModified="1541276223"/>
           <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1523901913"/>
           <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
           <Include href="Arrow_Orange.xml" loadImmediate="false" itemID="5bd751ce-000004cf" lastModified="1540840958"/>
-          <Include href="scene1Start.xml" loadImmediate="false" itemID="5bd768b5-000002fc" lastModified="1540843701"/>
-          <Include href="TC_TObject__Start.xml" itemIcon="0" loadImmediate="false" itemID="5bd74c03-0000030f" lastModified="1540836355"/>
+          <Include href="Assets/TC_TButton__Button Assets/icons/SpinOutline.xml" loadImmediate="false" itemID="5bc37dde-00000676" lastModified="1397078403"/>
+          <Include href="Assets/TC_TButton__Button Assets/NextButtonDisabled.xml" loadImmediate="false" itemID="5bc37dde-00000678" lastModified="1397139109"/>
+          <Include href="Assets/TC_TButton__Button Assets/NextButtonDown.xml" loadImmediate="false" itemID="5bc37dde-00000675" lastModified="1397136476"/>
+          <Include href="Assets/TC_TButton__Button Assets/NextButtonFocus.xml" loadImmediate="false" itemID="5bc37dde-00000677" lastModified="1539535892"/>
+          <Include href="Assets/TC_TButton__Button Assets/NextButtonOver.xml" loadImmediate="false" itemID="5bc37dde-00000673" lastModified="1398217480"/>
+          <Include href="Assets/TC_TButton__Button Assets/NextButtonUp.xml" loadImmediate="false" itemID="5bc37dde-00000671" lastModified="1401481127"/>
+          <Include href="Assets/TC_TButton__Button Assets/NextOutline.xml" loadImmediate="false" itemID="5bc37dde-00000672" lastModified="1397136525"/>
+          <Include href="Assets/TC_TButton__Button Assets/TC_TObject__navbackdisabled.xml" loadImmediate="false" itemID="5bbe85b0-000004d5" lastModified="1539212720"/>
+          <Include href="Assets/TC_TButton__Button Assets/TC_TObject__navbackdown.xml" loadImmediate="false" itemID="5bbe85a5-000004d3" lastModified="1539212709"/>
+          <Include href="Assets/TC_TButton__Button Assets/TC_TObject__navbackhit.xml" loadImmediate="false" itemID="5bbe85aa-000004d4" lastModified="1539535826"/>
+          <Include href="Assets/TC_TButton__Button Assets/TC_TObject__navbackover.xml" loadImmediate="false" itemID="5bbe859f-000004d2" lastModified="1539212703"/>
+          <Include href="Assets/TC_TButton__Button Assets/TC_TObject__navbackup.xml" loadImmediate="false" itemID="5bbe8598-000004d1" lastModified="1539212696"/>
+          <Include href="Assets/TC_TButton__Button Assets/TC_TObject__navnextdisabled.xml" loadImmediate="false" itemID="5bbe84c7-00000487" lastModified="1539212646"/>
+          <Include href="Assets/TC_TButton__Button Assets/TC_TObject__navnextdown.xml" loadImmediate="false" itemID="5bbe84c0-00000486" lastModified="1539212480"/>
+          <Include href="Assets/TC_TButton__Button Assets/TC_TObject__navnexthit.xml" loadImmediate="false" itemID="5bbe84ce-00000488" lastModified="1539212494"/>
+          <Include href="Assets/TC_TButton__Button Assets/TC_TObject__navnextover.xml" loadImmediate="false" itemID="5bbe84ba-00000485" lastModified="1541279404"/>
+          <Include href="Assets/TC_TButton__Button Assets/TC_TObject__navnextup.xml" loadImmediate="false" itemID="5bbe84b3-00000484" lastModified="1539212467"/>
+          <Include href="attribution.xml" loadImmediate="false" itemID="5bde09a1-00000d00" lastModified="1541278153"/>
+          <Include href="buttonAssets/arrowhead.xml" loadImmediate="false" itemID="5bdd1e20-000003a4" lastModified="1541263251"/>
+          <Include href="buttonAssets/backButtonDn.xml" loadImmediate="false" itemID="5bdd1eb9-000003b0" lastModified="1541263260"/>
+          <Include href="buttonAssets/backButtonUp.xml" itemIcon="0" loadImmediate="false" itemID="5bdd1e61-000003a8" lastModified="1541217889"/>
+          <Include href="buttonAssets/bg.xml" itemIcon="0" loadImmediate="false" itemID="5bdc8645-000002d6" lastModified="1541274419"/>
+          <Include href="buttonAssets/BlueButtonDn.xml" loadImmediate="false" itemID="5bdcb944-0000031d" lastModified="1541192077"/>
+          <Include href="buttonAssets/BlueButtonUp.xml" loadImmediate="false" itemID="5bdcb74f-000002eb" lastModified="1541192061"/>
+          <Include href="buttonAssets/ConfUserButtonDn.xml" loadImmediate="false" itemID="5bde08c8-00000cf7" lastModified="1541278031"/>
+          <Include href="buttonAssets/ConfUserButtonUp.xml" loadImmediate="false" itemID="5bdddb2b-00000723" lastModified="1541266236"/>
+          <Include href="buttonAssets/deltop_dn.xml" loadImmediate="false" itemID="5bde195f-00000336" lastModified="1541283251"/>
+          <Include href="buttonAssets/ExUserButtonUp.xml" loadImmediate="false" itemID="5bddd5d4-000005ee" lastModified="1541276706"/>
+          <Include href="buttonAssets/greenButtonDn.xml" loadImmediate="false" itemID="5bdcb94c-00000323" lastModified="1541192351"/>
+          <Include href="buttonAssets/greenButtonUp.xml" loadImmediate="false" itemID="5bdcb78b-000002ef" lastModified="1541192261"/>
+          <Include href="buttonAssets/keypad.xml" loadImmediate="false" itemID="5bdcb8c7-00000306" lastModified="1541192100"/>
+          <Include href="buttonAssets/keytop_dn.xml" loadImmediate="false" itemID="5bde0678-00000bba" lastModified="1541277384"/>
+          <Include href="buttonAssets/keytop_up.xml" loadImmediate="false" itemID="5bddced1-000003b6" lastModified="1541277133"/>
+          <Include href="buttonAssets/NavBg.xml" loadImmediate="false" itemID="5bddd4ae-000004f3" lastModified="1541264580"/>
+          <Include href="buttonAssets/newUserdn.xml" loadImmediate="false" itemID="5bddd72b-0000066f" lastModified="1541276811"/>
+          <Include href="buttonAssets/newUserup.xml" loadImmediate="false" itemID="5bddd693-0000062e" lastModified="1541280808"/>
+          <Include href="buttonAssets/StartButtonDn.xml" loadImmediate="false" itemID="5bdcbae1-00000382" lastModified="1541276622"/>
+          <Include href="buttonAssets/StartButtonUp.xml" loadImmediate="false" itemID="5bdcba9c-0000037c" lastModified="1541192420"/>
+          <Include href="buttonAssets/TC_TObject__Start.xml" itemIcon="0" loadImmediate="false" itemID="5bd74c03-0000030f" lastModified="1541277927"/>
+          <Include href="buttonAssets/TC_TObject__StartDn.xml" itemIcon="0" loadImmediate="false" itemID="5bdcbaf9-00000386" lastModified="1541276586"/>
+          <Include href="buttonAssets/UserButtonUp.xml" loadImmediate="false" itemID="5bddd5a2-00000575" lastModified="1541276778"/>
+          <Include href="buttonAssets/yellowButtonDn.xml" loadImmediate="false" itemID="5bdcb952-00000329" lastModified="1541192045"/>
+          <Include href="buttonAssets/yellowButtonUp.xml" loadImmediate="false" itemID="5bdcb792-000002f3" lastModified="1541191963"/>
+          <Include href="date_btn_top.xml" loadImmediate="false" itemID="5bddd909-000006c7" lastModified="1541266650"/>
+          <Include href="del_top_up.xml" loadImmediate="false" itemID="5bde19e6-00000338" lastModified="1541282783"/>
+          <Include href="earphones.xml" loadImmediate="false" itemID="5bde0975-00000cf9" lastModified="1541282752"/>
+          <Include href="home_btn_dn.xml" loadImmediate="false" itemID="5bde0277-00000ad7" lastModified="1541277673"/>
+          <Include href="home_btn_up.xml" loadImmediate="false" itemID="5bde026f-00000acf" lastModified="1541277604"/>
+          <Include href="mnthbtn_top.xml" loadImmediate="false" itemID="5bddd891-000006a2" lastModified="1541266661"/>
+          <Include href="scene1Start.xml" loadImmediate="false" itemID="5bd768b5-000002fc" lastModified="1541274363"/>
+          <Include href="SceneDate.xml" loadImmediate="false" itemID="5bddd7ec-00000699" lastModified="1541300446"/>
+          <Include href="sceneearphones.xml" loadImmediate="false" itemID="5bdddec1-00000819" lastModified="1541278113"/>
+          <Include href="scenekeybd_bg.xml" loadImmediate="false" itemID="5bddd7d4-00000698" lastModified="1541300442"/>
+          <Include href="scenenewuser.xml" loadImmediate="false" itemID="5bddd7cf-00000697" lastModified="1541281323"/>
+          <Include href="scenesoundlevel.xml" loadImmediate="false" itemID="5bdddf1c-00000854" lastModified="1541279328"/>
+          <Include href="sceneuserconfirm.xml" loadImmediate="false" itemID="5bdddaec-0000071a" lastModified="1541298329"/>
+          <Include href="shp_0_dn.xml" loadImmediate="false" itemID="5bde0c01-00000d20" lastModified="1541278721"/>
+          <Include href="shp_0_up.xml" loadImmediate="false" itemID="5bde0bfb-00000d1c" lastModified="1541278715"/>
+          <Include href="shp_3_dn.xml" loadImmediate="false" itemID="5bde0c60-00000d40" lastModified="1541278816"/>
+          <Include href="shp_3_up.xml" loadImmediate="false" itemID="5bde0c31-00000d34" lastModified="1541278769"/>
+          <Include href="shp_4_dn.xml" loadImmediate="false" itemID="5bde0c18-00000d28" lastModified="1541279236"/>
+          <Include href="shp_4_up.xml" loadImmediate="false" itemID="5bde0c10-00000d24" lastModified="1541279219"/>
+          <Include href="shp_5_dn.xml" loadImmediate="false" itemID="5bde0c29-00000d30" lastModified="1541278761"/>
+          <Include href="shp_5_up.xml" loadImmediate="false" itemID="5bde0c20-00000d2c" lastModified="1541278752"/>
+          <Include href="shp_6_dn.xml" loadImmediate="false" itemID="5bde0c6e-00000d48" lastModified="1541278830"/>
+          <Include href="shp_6_up.xml" loadImmediate="false" itemID="5bde0c45-00000d3c" lastModified="1541278789"/>
+          <Include href="shp_10_dn.xml" loadImmediate="false" itemID="5bde0c67-00000d44" lastModified="1541278823"/>
+          <Include href="shp_10_up.xml" loadImmediate="false" itemID="5bde0c3d-00000d38" lastModified="1541278781"/>
+          <Include href="speaker.xml" loadImmediate="false" itemID="5bde09d1-00000d09" lastModified="1541278161"/>
+          <Include href="Symbol 1.xml" loadImmediate="false" itemID="5bde1aef-00000333" lastModified="1541282618"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1" currentFrame="1">
@@ -29,7 +124,7 @@
                     </DOMLayer>
                     <DOMLayer name="Scene Bounds" color="#FF00FF" locked="true" outline="true" useOutlineView="true" autoNamed="false">
                          <frames>
-                              <DOMFrame index="0" duration="2" keyMode="9728">
+                              <DOMFrame index="0" keyMode="9728">
                                    <elements>
                                         <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
                                              <transformationPoint>
@@ -46,16 +141,7 @@
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="scene1Start">
-                                             <matrix>
-                                                  <Matrix tx="963" ty="504.75"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point y="0.8"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>

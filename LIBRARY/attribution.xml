@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="attribution" itemID="5bde09a1-00000d00" lastModified="1541278153">
+  <timeline>
+    <DOMTimeline name="attribution">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMBitmapInstance selected="true" libraryItemName="Scene Assets/TC_TScene_HeadPhoneCheck/cmulogo.png">
+                      <matrix>
+                        <Matrix tx="167"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance selected="true" libraryItemName="Scene Assets/TC_TScene_HeadPhoneCheck/ieslogo.png"/>
+                    <DOMBitmapInstance selected="true" libraryItemName="Scene Assets/TC_TScene_HeadPhoneCheck/klahrlogo.png">
+                      <matrix>
+                        <Matrix tx="546"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

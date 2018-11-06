@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="buttonAssets/newUserup" itemID="5bddd693-0000062e" lastModified="1541280808">
+  <timeline>
+    <DOMTimeline name="newUserup">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00D254"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="10.05">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-8082 -2681|8082 -2681!8082 -2681[8413 -2681 8647 -2489!8647 -2489[8882 -2296 8882 -2025!8882 -2025|8882 1063!8882 1063[8882 1334 8647 1526!8647 1526[8413 1719 8082 1719!8082 1719|-8082 1719!-8082 1719[-8413 1719 -8648 1526!-8648 1526
+[-8882 1334 -8882 1063!-8882 1063|-8882 -2025!-8882 -2025[-8882 -2296 -8648 -2489!-8648 -2489[-8413 -2681 -8082 -2681"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

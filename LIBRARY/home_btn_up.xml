@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="home_btn_up" itemID="5bde026f-00000acf" lastModified="1541277604">
+  <timeline>
+    <DOMTimeline name="home_btn_up">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="147.75" objectHeight="147.75" x="93.75" y="450.45" selected="true" endAngle="0">
+                  <matrix>
+                    <Matrix a="0.744247436523438" d="0.744247436523438" tx="-69.75" ty="-335.2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="10">
+                      <fill>
+                        <SolidColor color="#464637"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMOvalObject>
+                <DOMBitmapInstance selected="true" libraryItemName="Home.fw.png">
+                  <matrix>
+                    <Matrix a="0.647064208984375" d="0.647064208984375" tx="22.35" ty="21.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

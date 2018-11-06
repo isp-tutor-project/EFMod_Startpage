@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="buttonAssets/keytop_dn" itemID="5bde0678-00000bba" lastModified="1541277384">
+  <timeline>
+    <DOMTimeline name="keytop_dn">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="153.15" objectHeight="153.15" x="253.5" y="355.55" endAngle="0">
+                  <matrix>
+                    <Matrix a="0.946762084960938" d="0.946456909179688" tx="-240" ty="-336.45"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#005C00" alpha="0.447058823529412"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="10">
+                      <fill>
+                        <SolidColor color="#7DA17D"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

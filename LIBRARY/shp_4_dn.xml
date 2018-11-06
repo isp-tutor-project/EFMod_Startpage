@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="shp_4_dn" itemID="5bde0c18-00000d28" lastModified="1541279236">
+  <timeline>
+    <DOMTimeline name="shp_4_dn">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0099FF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#676767"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" edges="!1360 -80|-40 -80!-40 -80[-57 -80 -68 -68!-68 -68[-80 -57 -80 -40!-80 -40|-80 1360!-80 1360[-80 1377 -68 1389!-68 1389[-57 1400 -40 1400!-40 1400|1360 1400!1360 1400[1377 1400 1389 1389!1389 1389[1400 1377 1400 1360!1400 1360|1400 -40
+!1400 -40[1400 -57 1389 -68!1389 -68[1377 -80 1360 -80"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!1320 0|1320 1320!1320 1320|0 1320!0 1320|0 0!0 0|1320 0"/>
+                    <Edge cubics="!0 0(;0,0 1320,0 1320,0q0 0 1320 0);"/>
+                    <Edge cubics="!1320 1320(;1320,1320 0,1320 0,1320q1320 1320 0 1320);"/>
+                    <Edge cubics="!0 1320(;0,1320 0,0 0,0q0 1320 0 0);"/>
+                    <Edge cubics="!1320 0(;1320,0 1320,1320 1320,1320q1320 0 1320 1320);"/>
+                    <Edge cubics="!-40 -80(;-51,-80 -61,-76 -68,-68q-40 -80Q-57 -80q-68 -68);"/>
+                    <Edge cubics="!-68 -68(;-76,-61 -80,-51 -80,-40q-68 -68Q-80 -57q-80 -40);"/>
+                    <Edge cubics="!1400 -40(;1400,-51 1396,-61 1389,-68q1400 -40Q1400 -57q1389 -68);"/>
+                    <Edge cubics="!1389 -68(;1381,-76 1371,-80 1360,-80q1389 -68Q1377 -80q1360 -80);"/>
+                    <Edge cubics="!1360 -80(;1360,-80 -40,-80 -40,-80q1360 -80 -40 -80);"/>
+                    <Edge cubics="!1360 1400(;1371,1400 1381,1396 1389,1389q1360 1400Q1377 1400q1389 1389);"/>
+                    <Edge cubics="!1389 1389(;1396,1381 1400,1371 1400,1360q1389 1389Q1400 1377q1400 1360);"/>
+                    <Edge cubics="!-80 1360(;-80,1371 -76,1381 -68,1389q-80 1360Q-80 1377q-68 1389);"/>
+                    <Edge cubics="!-68 1389(;-61,1396 -51,1400 -40,1400q-68 1389Q-57 1400q-40 1400);"/>
+                    <Edge cubics="!-40 1400(;-40,1400 1360,1400 1360,1400q-40 1400 1360 1400);"/>
+                    <Edge cubics="!-80 -40(;-80,-40 -80,1360 -80,1360q-80 -40 -80 1360);"/>
+                    <Edge cubics="!1400 1360(;1400,1360 1400,-40 1400,-40q1400 1360 1400 -40);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

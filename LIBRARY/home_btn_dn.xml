@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="home_btn_dn" itemID="5bde0277-00000ad7" lastModified="1541277673">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="home_btn_dn">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="147.75" objectHeight="147.75" x="93.75" y="450.45" endAngle="0">
+                  <matrix>
+                    <Matrix a="0.744247436523438" d="0.744247436523438" tx="-69.75" ty="-335.2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#0099FF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="10">
+                      <fill>
+                        <SolidColor color="#464637"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMOvalObject>
+                <DOMBitmapInstance libraryItemName="Home.fw.png">
+                  <matrix>
+                    <Matrix a="0.647064208984375" d="0.647064208984375" tx="22.35" ty="21.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

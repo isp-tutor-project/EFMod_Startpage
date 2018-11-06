@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="shp_0_dn" itemID="5bde0c01-00000d20" lastModified="1541278721">
+  <timeline>
+    <DOMTimeline name="shp_0_dn">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="55.5" objectHeight="55.5" x="632" y="849.9" endAngle="0">
+                  <matrix>
+                    <Matrix a="1.26126098632813" d="1.26126098632813" tx="-797.1" ty="-1071.95"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#0099FF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="4">
+                      <fill>
+                        <SolidColor color="#676767"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

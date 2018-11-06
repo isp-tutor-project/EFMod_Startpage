@@ -1,0 +1,210 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="scenesoundlevel" itemID="5bdddf1c-00000854" lastModified="1541279328">
+  <timeline>
+    <DOMTimeline name="scenesoundlevel">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMOvalObject objectWidth="147.75" objectHeight="147.75" x="93.75" y="450.45" selected="true" endAngle="0">
+                      <matrix>
+                        <Matrix a="0.744247436523438" d="0.744247436523438" tx="48.1" ty="-248.8"/>
+                      </matrix>
+                      <fill>
+                        <SolidColor color="#FFFFFF"/>
+                      </fill>
+                      <stroke>
+                        <SolidStroke scaleMode="normal" weight="10">
+                          <fill>
+                            <SolidColor color="#464637"/>
+                          </fill>
+                        </SolidStroke>
+                      </stroke>
+                    </DOMOvalObject>
+                    <DOMBitmapInstance libraryItemName="Home.fw.png">
+                      <matrix>
+                        <Matrix a="0.647064208984375" d="0.647064208984375" tx="140.2" ty="108"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance libraryItemName="Scene Assets/TC_TScene_HeadPhoneCheck/cmulogo.png">
+                      <matrix>
+                        <Matrix tx="813" ty="1142.15"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance libraryItemName="Scene Assets/TC_TScene_HeadPhoneCheck/ieslogo.png">
+                      <matrix>
+                        <Matrix tx="646" ty="1142.15"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance libraryItemName="Scene Assets/TC_TScene_HeadPhoneCheck/klahrlogo.png">
+                      <matrix>
+                        <Matrix tx="1192" ty="1142.15"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+                <DOMStaticText fontRenderingMode="standard" left="-183.6" width="928" height="137.4" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="679.6" ty="149.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Adjust your volume until&#xD;you can hear the voice comfortably</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="67.7" size="48" bitmapSize="960" face="Arial-Black"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="-126.75" width="397.5" height="67.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="888" ty="683.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SOUND CHECK</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="67.7" size="48" bitmapSize="960" face="Arial-Black"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="speaker">
+                  <matrix>
+                    <Matrix tx="760" ty="350"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="150"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shp_0_up">
+                  <matrix>
+                    <Matrix tx="451" ty="856.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shp_0_dn">
+                  <matrix>
+                    <Matrix tx="451" ty="770.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shp_4_up">
+                  <matrix>
+                    <Matrix tx="582.05" ty="860.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33" y="33"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shp_4_dn">
+                  <matrix>
+                    <Matrix tx="582.05" ty="774.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33" y="33"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shp_5_up">
+                  <matrix>
+                    <Matrix tx="713.5" ty="860.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shp_5_dn">
+                  <matrix>
+                    <Matrix tx="713.5" ty="774.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shp_3_up">
+                  <matrix>
+                    <Matrix tx="820.75" ty="856.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shp_10_up">
+                  <matrix>
+                    <Matrix tx="926" ty="856.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shp_6_up">
+                  <matrix>
+                    <Matrix tx="1045.95" ty="856.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.5" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shp_3_dn">
+                  <matrix>
+                    <Matrix tx="820.75" ty="770.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shp_10_dn">
+                  <matrix>
+                    <Matrix tx="926" ty="770.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shp_6_dn">
+                  <matrix>
+                    <Matrix tx="1045.95" ty="770.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.5" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="buttonAssets/NavBg" selected="true">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

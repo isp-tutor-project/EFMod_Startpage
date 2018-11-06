@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="buttonAssets/ConfUserButtonDn" itemID="5bde08c8-00000cf7" lastModified="1541278031">
+  <timeline>
+    <DOMTimeline name="ConfUserButtonDn">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="buttonAssets/TC_TObject__Start" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.809982299804688" d="0.809982299804688" tx="360.5" ty="110.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="Starttext" fontRenderingMode="standard" left="-138.6" width="421.2" height="249.8" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.809982299804688" d="0.809982299804688" tx="302.2" ty="9.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sign-in</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="229" size="200" bitmapSize="4000" face="MouseMemoirs-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="buttonAssets/ExUserButtonUp" itemID="5bddd5d4-000005ee" lastModified="1541276706">
+  <timeline>
+    <DOMTimeline name="ExUserButtonUp">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="buttonAssets/TC_TObject__StartDn" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.809982299804688" d="0.809982299804688" tx="360.5" ty="110.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="Starttext" fontRenderingMode="standard" left="-248.6" width="641.2" height="249.8" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.809982299804688" d="0.809982299804688" tx="302.2" ty="18.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>User Sign-in</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="206.1" size="180" bitmapSize="3600" face="MouseMemoirs-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
